@@ -16,3 +16,12 @@ Este front-end apresenta as ferramentas e práticas mais recentes em desenvolvim
 - 💖 **Lint** — ESlint/Prettier/Editor Config
 
 Eu usei outras bibliotecas tambem, como **date-fns** para datas.
+
+## Projeto 
+
+Nesse projeto, foi desenvolvido uma aplicação de controle de tarefas no estilo **to-do list**, que contém as seguintes funcionalidades:
+
+- Adicionar uma nova tarefa
+- Marcar e desmarcar uma tarefa como concluída
+- Editar ou remover uma tarefa da listagem
+- Mostrar lista de tarefas pendentes e concluídas
