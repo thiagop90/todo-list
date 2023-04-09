@@ -1,5 +1,5 @@
 <h1>
-  To-Do List App
+  To-Do List
 </h1>
 
 Front-end do apliativo desenvolvido na Jornada Ignite [Rocketseat Ignite](https://www.rocketseat.com.br/ignite).
