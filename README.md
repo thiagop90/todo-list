@@ -4,7 +4,7 @@
 
 Front-end do apliativo desenvolvido na Jornada Ignite [Rocketseat Ignite](https://www.rocketseat.com.br/ignite).
 
-<img src="blob:https://vercel.com/d60b88bf-7307-4b26-89cc-3fe0fde4140d" width="100%"/>
+<img src=".github/Capa.png" width="100%"/>
 
 ## Características
 
