@@ -2,7 +2,7 @@
   To-Do List
 </h1>
 
-Front-end do apliativo desenvolvido na Jornada Ignite [Rocketseat Ignite](https://www.rocketseat.com.br/ignite).
+Front-end do aplicativo desenvolvido no desafio do módulo 01 da jornada Ignite [Rocketseat Ignite](https://www.rocketseat.com.br/ignite).
 
 <img src=".github/capa.png" width="100%"/>
 
@@ -15,7 +15,7 @@ Este front-end apresenta as ferramentas e práticas mais recentes em desenvolvim
 - ⚡️ **Crakra UI** - Framework de componentes
 - 💖 **Lint** — ESlint/Prettier/Editor Config
 
-Eu usei outras bibliotecas tambem, como **date-fns** para datas.
+Eu usei outras bibliotecas também, como **date-fns** para datas.
 
 ## Projeto 
 
